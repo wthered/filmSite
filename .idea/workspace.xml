@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b58f54a5-cebe-4749-8b85-563a7086f15a" name="Default Changelist" comment="">
+    <list default="true" id="b58f54a5-cebe-4749-8b85-563a7086f15a" name="Default Changelist" comment="Latest Version until update">
+      <change afterPath="$PROJECT_DIR$/public/css/AutocompleteText.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AutoCompleteText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LatestMovies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MaterNav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/protectedRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/UserPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/notFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/postData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/Autocomplete.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +50,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1UNfQNVnj7lF9YoixWveeOf8SIX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,6 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -45,9 +73,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/css" />
     </key>
@@ -91,7 +122,19 @@
       <updated>1575201956701</updated>
       <workItem from="1575201962117" duration="1731000" />
       <workItem from="1575210295789" duration="15130000" />
-      <workItem from="1575291343347" duration="5127000" />
+      <workItem from="1575291343347" duration="19505000" />
+      <workItem from="1575374931447" duration="1616000" />
+      <workItem from="1575381246688" duration="7300000" />
+      <workItem from="1575390408766" duration="2493000" />
+      <workItem from="1575397387548" duration="6651000" />
+      <workItem from="1575460342456" duration="2950000" />
+      <workItem from="1575469958430" duration="2942000" />
+      <workItem from="1575475023723" duration="8919000" />
+      <workItem from="1575630091645" duration="6155000" />
+      <workItem from="1575892878235" duration="16406000" />
+      <workItem from="1575982376523" duration="641000" />
+      <workItem from="1575992052691" duration="11393000" />
+      <workItem from="1576067026507" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="Latest Version until update">
       <created>1575299804280</created>
@@ -100,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575299804280</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Latest Version until update">
+      <created>1575299955199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575299955199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,14 +165,18 @@
       <screen x="1920" y="173" width="1366" height="768" />
     </state>
     <state x="2233" y="231" key="#JSON/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575202286831" />
-    <state x="2371" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575299639811">
+    <state x="2318" y="297" width="624" height="542" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575991905665">
       <screen x="1920" y="173" width="1366" height="768" />
     </state>
-    <state x="2371" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575299639811" />
-    <state x="1981" y="197" width="879" height="744" key="CommitChangelistDialog2" timestamp="1575299803289">
+    <state x="2318" y="297" width="624" height="542" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575991905665" />
+    <state x="2371" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575480386683">
       <screen x="1920" y="173" width="1366" height="768" />
     </state>
-    <state x="1981" y="197" width="879" height="744" key="CommitChangelistDialog2/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575299803289" />
+    <state x="2371" y="319" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575480386683" />
+    <state x="1981" y="197" width="879" height="744" key="CommitChangelistDialog2" timestamp="1576067800026">
+      <screen x="1920" y="173" width="1366" height="768" />
+    </state>
+    <state x="1981" y="197" width="879" height="744" key="CommitChangelistDialog2/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1576067800026" />
     <state x="2428" y="470" key="Github.CreateGistDialog" timestamp="1575202653608">
       <screen x="1920" y="173" width="1366" height="768" />
     </state>
@@ -143,13 +197,21 @@
       <screen x="1920" y="173" width="1366" height="768" />
     </state>
     <state width="1280" height="184" key="GridCell.Tab.0.right/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575229411942" />
-    <state x="2127" y="205" key="SettingsEditor" timestamp="1575202272085">
+    <state x="2127" y="205" key="SettingsEditor" timestamp="1575381604488">
       <screen x="1920" y="173" width="1366" height="768" />
     </state>
-    <state x="2127" y="205" key="SettingsEditor/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575202272085" />
-    <state x="2232" y="294" key="Vcs.Push.Dialog.v2" timestamp="1575299881378">
+    <state x="2127" y="205" key="SettingsEditor/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575381604488" />
+    <state x="2232" y="294" key="Vcs.Push.Dialog.v2" timestamp="1575299957374">
       <screen x="1920" y="173" width="1366" height="768" />
     </state>
-    <state x="2232" y="294" key="Vcs.Push.Dialog.v2/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575299881378" />
+    <state x="2232" y="294" key="Vcs.Push.Dialog.v2/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575299957374" />
+    <state x="2295" y="262" key="run.anything.popup" timestamp="1575631021362">
+      <screen x="1920" y="173" width="1366" height="768" />
+    </state>
+    <state x="2295" y="262" key="run.anything.popup/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575631021362" />
+    <state x="2295" y="262" width="672" height="678" key="search.everywhere.popup" timestamp="1575401820223">
+      <screen x="1920" y="173" width="1366" height="768" />
+    </state>
+    <state x="2295" y="262" width="672" height="678" key="search.everywhere.popup/1920.173.1366.768/0.24.1920.1056@1920.173.1366.768" timestamp="1575401820223" />
   </component>
 </project>
